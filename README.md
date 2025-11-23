@@ -7,12 +7,13 @@ This mouse_scroll.sh file allows you to change volume using your mouse.
 2. Find mouse ID and side button.
 
    a. find mouse pointer ID using `xinput list` then find side button number using `xinput test[ID]`
+   b. edit `MOUSE_ID` and `SIDE_BUTTON` in the file.
 
 
-3. Download file and make it executable
+4. Download file and make it executable
 
       `chmod +x mouse_scroll.sh`
 
-4. Execute.
+5. Execute.
 
       `./mouse_scroll.sh`
