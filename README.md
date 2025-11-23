@@ -1,4 +1,4 @@
-This mouse_scroll.sh file allows you to change volume using your mouse.
+This mouse_volume.sh file allows you to change volume using your mouse.
 
 1. Ensure all packages are installed.
 
@@ -13,8 +13,8 @@ This mouse_scroll.sh file allows you to change volume using your mouse.
 
 4. Download file and make it executable
 
-      `chmod +x mouse_scroll.sh`
+      `chmod +x mouse_volume.sh`
 
 5. Execute.
 
-      `./mouse_scroll.sh`
+      `./mouse_volume.sh`
